@@ -9,3 +9,7 @@ __Practicing your Git skills__
 * [Working With Branches](working-with-branches.md)
 
 
+## Resources
+
+* Book: [Pro Git](https://git-scm.com/book/)
+
