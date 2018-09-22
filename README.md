@@ -12,4 +12,5 @@ __Practicing your Git skills__
 ## Resources
 
 * Book: [Pro Git](https://git-scm.com/book/)
+* Dosc: [Git Documentation](https://git-scm.com/docs)
 
